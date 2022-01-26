@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ASErkek
+- 👀 I’m interested in robotics, artificial intelligence, mechatronics, software
+- 🌱 I’m currently learning design patterns
+- 📫 How to reach me: sam@abdulsameterkek.com
